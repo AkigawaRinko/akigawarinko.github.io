@@ -256,7 +256,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: 14px;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Lato, Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: 'Noto Serif SC', serif;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -278,13 +278,12 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: ;
+  background: https;
   background-attachment: local;
   background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  background-repeat: no-repeat;
+  -webkit-background-size: 400px;
+  -moz-background-size: 400px;
+  background-size: 400px;
 }
 h1,
 h2,
