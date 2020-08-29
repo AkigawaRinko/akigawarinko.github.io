@@ -9,7 +9,7 @@
      }
      else {
          $('[rel="icon"]').attr('href', "/favicon.ico");
-         document.title = '愛してるぞ' + OriginTitle;
+         document.title = '愛してるぞ💓' + OriginTitle;
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
          }, 2000);
