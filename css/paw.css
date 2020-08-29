@@ -1,0 +1,6 @@
+h1:before,h2:before,h3:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  content: '\f1b0';
+  font-size: 1em;
+  color: #f47466;
+}
