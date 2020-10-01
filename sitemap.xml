@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rinko.akidays.net/2020-10-01-aozora-and-torinouta-ep1.html</loc>
+    
+    <lastmod>2020-10-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://rinko.akidays.net/2020-08-30-playlist-for-summer-ending.html</loc>
     
     <lastmod>2020-08-30</lastmod>
@@ -150,6 +157,27 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://rinko.akidays.net/tags/%E3%82%A2%E3%82%AA%E3%82%BE%E3%83%A9%E3%81%A8%E9%B3%A5%E3%81%AE%E8%A9%A9/</loc>
+    <lastmod>2020-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rinko.akidays.net/tags/%E7%99%BE%E5%90%88/</loc>
+    <lastmod>2020-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://rinko.akidays.net/categories/Original-Series/</loc>
+    <lastmod>2020-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
